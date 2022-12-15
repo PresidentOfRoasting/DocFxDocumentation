@@ -3,7 +3,7 @@
 ### Check your execution policy
 >ExecutionPolicy
 If the powershell shows 
->Restricted <br />
+>Restricted< <br />
 Run <br />
 <Set-ExecutionPolicy AllSigned <br />
 or <br />
