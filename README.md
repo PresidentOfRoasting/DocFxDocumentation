@@ -3,8 +3,8 @@
 ### Check your execution policy
 >ExecutionPolicy
 If the powershell shows 
->Restricted
-Run 
-<Set-ExecutionPolicy AllSigned
-or 
-<Set-ExecutionPolicy Bypass -Scope Process
+>Restricted <br />
+Run <br />
+<Set-ExecutionPolicy AllSigned <br />
+or <br />
+<Set-ExecutionPolicy Bypass -Scope Process <br />
