@@ -1,6 +1,7 @@
 # DocFxDocumentation
 ## 1. Install choclatey
 ### Check your execution policy 
+Execute the following commands in the Windows Powershell
 **ExecutionPolicy** 
 
 If the powershell shows
