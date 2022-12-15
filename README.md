@@ -29,3 +29,9 @@ Run
 Run
 
 **docfx init -q**
+
+## Run the application
+
+Run the following command to run the application
+
+**docfx docfx.json --serve**
