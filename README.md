@@ -35,3 +35,9 @@ Run
 Run the following command to run the application
 
 **docfx docfx.json --serve**
+
+You can now see your documentation on http://localhost:8080/
+
+## 3. Create documentation
+Whatever you write into the markdown file will appear on the html page.
+If you create a new .md file, you need to register it in toc.yml
