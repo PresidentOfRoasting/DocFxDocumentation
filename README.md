@@ -22,4 +22,10 @@ Now run the following command
 
 ### Install Docfx via choclatey
 Run
-choco install docfx
+
+**choco install docfx**
+
+## 2. Create docfx framework
+Run
+
+**docfx init -q**
