@@ -1,5 +1,9 @@
 # DocFxDocumentation
-## 1. Install choclatey
+## 1. General information
+DocFX can produce documentation from source code (including C#, F#, Visual Basic, REST, JavaScript, Java, Python and TypeScript) as well as raw Markdown files.
+
+It can run on every platform.
+## 2. Install choclatey
 ### Check your execution policy 
 Execute the following commands in the Windows Powershell
 
@@ -26,7 +30,7 @@ Run
 
 **choco install docfx**
 
-## 2. Create docfx framework
+## 3. Create docfx framework
 Run
 
 **docfx init -q**
@@ -39,12 +43,12 @@ Run the following command to run the application
 
 You can now see your documentation on http://localhost:8080/
 
-## 3. Create documentation
+## 4. Create documentation
 Whatever you write into the markdown file will appear on the html page.
 
 If you create a new .md file, you need to register it in toc.yml
 
-## 4. Create a new section
+## 5. Create a new section
 To create a new section you need to create a new markdown file in the article folder.
 
 Now add your folder to the sections in toc.yml
